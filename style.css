@@ -164,3 +164,11 @@ main {
 .card-single:last-child div:first-child span {
   color: #fff;
 }
+
+table {
+  border-collapse: collapse;
+}
+
+.card-table {
+  width: 100%;
+}
